@@ -26,7 +26,7 @@ This is a simple web-based application that allows users to create and preview d
 1. Download the code or clone the repository.
 2. Open `index.html` in a browser.
 3. Start creating and generating your resume!
-
-
+## Demo
+Live Demo - 
 
 
