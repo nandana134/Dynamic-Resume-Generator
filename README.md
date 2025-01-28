@@ -27,6 +27,6 @@ This is a simple web-based application that allows users to create and preview d
 2. Open `index.html` in a browser.
 3. Start creating and generating your resume!
 ## Demo
-Live Demo - 
+Live Demo - https://nandana134.github.io/Dynamic-Resume-Generator/
 
 
